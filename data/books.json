@@ -1,0 +1,50 @@
+[
+    {
+        "id": "B001",
+        "title": "2",
+        "author": "3",
+        "publisher": "4",
+        "year": "5",
+        "status": "Available"
+    },
+    {
+        "id": "B002",
+        "title": "Doremon",
+        "author": "J97",
+        "publisher": "Kim Dong",
+        "year": "2006",
+        "status": "Available"
+    },
+    {
+        "id": "B003",
+        "title": "LT Python",
+        "author": "Nguyen",
+        "publisher": "CNTT",
+        "year": "2007",
+        "status": "Available"
+    },
+    {
+        "id": "4",
+        "title": "Lap trinh C",
+        "author": "Loan",
+        "publisher": "2009",
+        "year": "2017",
+        "status": "Available"
+    },
+    {
+        "id": "5",
+        "title": "Lap trinh C#",
+        "author": "Toan",
+        "publisher": "CNTT",
+        "year": "2019",
+        "status": "Available"
+    },
+    {
+        "id": "6",
+        "title": "Lap trinh Java",
+        "author": "Tu",
+        "publisher": "2015",
+        "year": "2009",
+        "status": "Available"
+    }
+]

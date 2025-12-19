@@ -1,0 +1,26 @@
+[
+    {
+        "reader_id": "1234",
+        "book_id": "12"
+    },
+    {
+        "reader_id": "1",
+        "book_id": "1"
+    },
+    {
+        "reader_id": "R003",
+        "book_id": "B003"
+    },
+    {
+        "reader_id": "R002",
+        "book_id": "B003"
+    },
+    {
+        "reader_id": "4",
+        "book_id": "5",
+        "borrow_date": "2025-11-17",
+        "due_date": "2025-11-24",
+        "status": "Returned",
+        "return_date": "2025-11-17"
+    }
+]
