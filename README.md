@@ -13,7 +13,3 @@ Dự án quản lý thư viện trực tuyến đơn giản được viết bằ
 - Thực hiện mượn và trả sách.
 - Lưu trữ dữ liệu bền vững qua file JSON.
 
-## 🛠 Hướng dẫn cài đặt & Chạy
-1. Clone dự án về máy:
-   ```bash
-   git clone [https://github.com/mh28-feb/Online-Library-Management-System.git](https://github.com/mh28-feb/Online-Library-Management-System.git)
