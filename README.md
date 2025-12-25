@@ -14,21 +14,6 @@ Dự án phục vụ mục đích **học tập, thực hành OOP, Git và Docke
 
 ---
 
-## 📁 Cấu trúc dự án
-.
-├── src/ # Mã nguồn chính
-│ ├── book.py
-│ ├── reader.py
-│ ├── admin.py
-│ └── main.py
-├── data/ # Dữ liệu JSON
-├── test/ # Unit tests
-├── Dockerfile
-├── README.md
-└── .gitignore
-
----
-
 ## 🚀 Chức năng chính
 
 - Quản lý thông tin sách (thêm, sửa, xóa)
