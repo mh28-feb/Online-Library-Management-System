@@ -1,14 +1,14 @@
 import json
 import os
 from datetime import datetime, timedelta
-
+from src.utils import ensure_data_dir
 
 class BorrowManager:
     def __init__(self, path="data/borrows.json", book_manager=None, reader_manager=None):
         self.path = path
         self.book_manager = book_manager
         self.reader_manager = reader_manager
-
+ensure_data_dir(os.path.dirname(self.path))
         if not os.path.exists(path):
             with open(path, "w", encoding="utf-8") as f:
                 f.write("[]")
