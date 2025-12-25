@@ -1,6 +1,6 @@
 import json
 import os
-
+from src.utils import ensure_data_dir
 class BookManager:
     def __init__(self, path="data/books.json"):
         self.path = path
