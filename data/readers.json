@@ -1,40 +1,40 @@
 [
     {
         "reader_id": "R001",
-        "name": "duy",
+        "name": "mhai",
         "email": "nt@gmail.com",
         "borrowed_books": [],
         "history": []
     },
     {
         "reader_id": "R002",
-        "name": "Tung Duy",
-        "email": "nt@gmail.com",
+        "name": "Hai",
+        "email": "hhoanghai282@gmail.com",
         "borrowed_books": [],
         "history": []
     },
     {
         "reader_id": "R003",
-        "name": "Duy",
-        "email": "duynt6060@ut.edu.vn",
+        "name": "Hoang Minh Hai",
+        "email": "22h1120151@ut.edu.vn",
         "borrowed_books": [],
         "history": []
     },
     {
         "reader_id": "4",
-        "name": "Nguyen Minh Anh",
-        "email": "minhanh1405@ut.edu.vn",
+        "name": "Minh Hai",
+        "email": "minhhai282@ut.edu.vn",
         "borrowed_books": [],
         "history": [
             {
                 "action": "borrow",
                 "book_id": "5",
-                "date": "2025-11-17"
+                "date": "2025-12-19"
             },
             {
                 "action": "return",
                 "book_id": "5",
-                "date": "2025-11-17"
+                "date": "2025-12-19"
             }
         ]
     }
