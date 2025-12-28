@@ -18,9 +18,9 @@
     {
         "reader_id": "4",
         "book_id": "5",
-        "borrow_date": "2025-11-17",
-        "due_date": "2025-11-24",
+        "borrow_date": "2025-12-19",
+        "due_date": "2026-1-24",
         "status": "Returned",
-        "return_date": "2025-11-17"
+        "return_date": "2025-12-19"
     }
 ]
